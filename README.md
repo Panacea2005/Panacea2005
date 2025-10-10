@@ -5,7 +5,7 @@
 
 *Building intelligent, creative, and decentralized digital experiences.*
 
-[Portfolio](https://panacea-ai.vercel.app) • [LinkedIn](https://linkedin.com/in/yourprofile) • [Email](mailto:ng.t.thien01@gmail.com)
+[Portfolio](https://panacea-dev.vercel.app) • [LinkedIn](https://linkedin.com/panaceadev) • [Email](mailto:contact.panacea.dev@gmail.com)
 
 </div>
 
