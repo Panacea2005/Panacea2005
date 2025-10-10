@@ -1,9 +1,10 @@
 <div align="center">
 
 # Panacea  
+**Nguyen Le Truong Thien (Panacea)**  
 **AI & Web3 Developer | Swinburne University of Technology Vietnam**
 
-*Building intelligent, creative, and decentralized digital experiences.*
+Building intelligent, creative, and decentralized digital experiences.
 
 [Portfolio](https://panacea-dev.vercel.app) • [LinkedIn](https://linkedin.com/panaceadev) • [Email](mailto:contact.panacea.dev@gmail.com)
 
@@ -13,17 +14,19 @@
 
 ## About Me
 
-I’m **Nguyen Le Truong Thien**, an AI and Web3 developer passionate about building systems that combine **intelligence, creativity, and decentralization**.  
-Currently studying **Computer Science (AI)** at Swinburne Vietnam, I focus on practical applications of **machine learning, blockchain, and generative systems**.
+I am **Nguyen Le Truong Thien (Panacea)**, an AI and Web3 developer focused on bridging intelligence, creativity, and decentralization.  
+As a **Computer Science (AI)** student at Swinburne Vietnam, I apply principles of machine learning, blockchain, and generative systems to design meaningful and scalable technology solutions.
 
 ---
 
 ## Projects
 
+- **Flipside** — DeFi and NFT analytics platform providing real-time blockchain visualization, smart contract integration, and AI-powered insights.  
 - **VOID** — AI-powered creative playground on **Solana**, winner of *Best AI App* at **Solana Swinburne Hackathon 2025**.  
 - **N.OVA** — AI-native Web3 identity platform for expressive digital identities, featured in **Solana Colosseum Breakout 2025**.  
-- **ClimaLens** — AI-driven climate analytics dashboard for visualizing environmental data and sustainability insights.  
-- **Genie** — LLM-powered mental health assistant with RAG and self-refinement pipelines.
+- **Genie** — LLM-powered mental health assistant featuring retrieval-augmented generation and self-refinement pipelines.  
+- **LongChau PMS** — Comprehensive pharmacy management and e-commerce platform for Long Chau Pharmacy, built with **Next.js**, **TypeScript**, and **Supabase**.  
+- **ClimaLens** — AI-driven climate analytics dashboard visualizing environmental and sustainability data.
 
 ---
 
@@ -32,7 +35,7 @@ Currently studying **Computer Science (AI)** at Swinburne Vietnam, I focus on pr
 **Languages:** Python · TypeScript · Kotlin · C++  
 **Frameworks:** Next.js · React · PyTorch · LangChain  
 **Blockchain:** Solana · Rust · Metaplex · Ethers.js  
-**Tools:** Docker · Supabase · GitHub Actions · VS Code
+**Databases & Tools:** Supabase · PostgreSQL · Docker · GitHub Actions · VS Code
 
 ---
 
