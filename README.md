@@ -2,7 +2,7 @@
 
 # Panacea  
 **Nguyen Le Truong Thien (Panacea)**  
-**AI & Web3 Developer | Swinburne University of Technology Vietnam**
+**AI & Full-stack Developer | Swinburne University of Technology Vietnam**
 
 Building intelligent, creative, and decentralized digital experiences.
 
@@ -14,7 +14,7 @@ Building intelligent, creative, and decentralized digital experiences.
 
 ## About Me
 
-I am **Nguyen Le Truong Thien (Panacea)**, an AI and Web3 developer focused on bridging intelligence, creativity, and decentralization.  
+I am **Nguyen Le Truong Thien (Panacea)**, an AI and Full-stack developer focused on bridging intelligence, creativity, and decentralization.  
 As a **Computer Science (AI)** student at Swinburne Vietnam, I apply principles of machine learning, blockchain, and generative systems to design meaningful and scalable technology solutions.
 
 ---
@@ -32,10 +32,10 @@ As a **Computer Science (AI)** student at Swinburne Vietnam, I apply principles 
 
 ## Tech Stack
 
-**Languages:** Python · TypeScript · Kotlin · C++  
-**Frameworks:** Next.js · React · PyTorch · LangChain  
-**Blockchain:** Solana · Rust · Metaplex · Ethers.js  
-**Databases & Tools:** Supabase · PostgreSQL · Docker · GitHub Actions · VS Code
+**Programming Languages:** Python · JavaScript/TypeScript · HTML5 · CSS3 
+**Frontend & UI:** React.js · Next.js · Tailwind CSS · D3.js  
+**Backend:** Node.js · Supabase · SQL · MySQL · PostgreSQL · RESTful APIs
+**Tools & DevOps:** Git · GitHub Actions · Docker
 
 ---
 
