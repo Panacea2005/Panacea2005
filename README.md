@@ -1,12 +1,12 @@
 <div align="center">
 
-# Panacea  
+# Kai  
 **Nguyen Le Truong Thien (Panacea)**  
 **AI & Full-stack Developer | Swinburne University of Technology Vietnam**
 
 Building intelligent, creative, and decentralized digital experiences.
 
-[Portfolio](https://panacea-dev.vercel.app) • [LinkedIn](https://linkedin.com/panaceadev) • [Email](mailto:contact.panacea.dev@gmail.com)
+[Portfolio](https://iamkai.vercel.app) • [LinkedIn](https://linkedin.comkaiisme) • [Email](mailto:contact.panacea.dev@gmail.com)
 
 </div>
 
@@ -14,7 +14,7 @@ Building intelligent, creative, and decentralized digital experiences.
 
 ## About Me
 
-I am **Nguyen Le Truong Thien (Panacea)**, an AI and Full-stack developer focused on bridging intelligence, creativity, and decentralization.  
+I am **Nguyen Le Truong Thien (Kai)**, an AI and Full-stack developer focused on bridging intelligence, creativity, and decentralization.  
 As a **Computer Science (AI)** student at Swinburne Vietnam, I apply principles of machine learning, blockchain, and generative systems to design meaningful and scalable technology solutions.
 
 ---
