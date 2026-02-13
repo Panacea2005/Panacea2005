@@ -1,7 +1,7 @@
 <div align="center">
 
 # Kai  
-**Nguyen Le Truong Thien (Panacea)**  
+**Nguyen Le Truong Thien (Kai)**  
 **AI & Full-stack Developer | Swinburne University of Technology Vietnam**
 
 Building intelligent, creative, and decentralized digital experiences.
